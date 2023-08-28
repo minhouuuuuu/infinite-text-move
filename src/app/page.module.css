@@ -12,7 +12,7 @@
 
 .sliderContainer{
   position: absolute;
-  top: calc(100vh - 220px);
+  top: calc(100vh - 240px);
 }
 
 .slider{
@@ -24,7 +24,7 @@
   position: relative;
   margin: 0px;
   color: white;
-  font-size: 230px;
+  font-size: 200px;
   font-weight: 500;
   padding-right: 50px;
 }
